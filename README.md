@@ -1,4 +1,4 @@
-# JPA base feature  
+# JPA basic features 
 Research on JPA 
 
 * Criteria Query Structure
