@@ -7,3 +7,4 @@ release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
 /OneToManyRelation/nb-configuration.xml
+/CriteriaAPI/nb-configuration.xml

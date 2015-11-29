@@ -55,5 +55,6 @@
         <module>ManyToOneRelation</module>
         <module>OneToManyRelation</module>
         <module>OneToOneRelation</module>
+        <module>CriteriaAPI</module>
     </modules>
 </project>
